@@ -1,8 +1,8 @@
 # Card-Component
 
-Hey folks, in this repository, I will be adding all the card components that I've created using HTML and CSS. Basically, these are all challenge projects from Frontend Mentor. I will be transforming these beautiful templates into dynamic website components.
-Building card components using HTML and CSS is a great way to enhance your front-end development skills. Converting them into dynamic website components adds an extra layer of interactivity and functionality.
-If you find it helpful then star ⭐ the repository.
+- Hey folks, in this repository, I will be adding all the card components that I've created using HTML and CSS. Basically, these are all challenge projects from Frontend Mentor. I will be transforming these beautiful templates into dynamic website components.
+- Building card components using HTML and CSS is a great way to enhance your front-end development skills. Converting them into dynamic website components adds an extra layer of interactivity and functionality.
+- If you find it helpful then star ⭐ the repository.
 
 
 1. Blog Card - This HTML & CSS-only challenge is a perfect project for beginners getting up to speed with HTML and CSS fundamentals, like HTML structure and the box model.
