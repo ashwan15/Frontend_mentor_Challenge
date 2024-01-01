@@ -16,7 +16,7 @@ body{
     height:100vh;
     align-items:center;
     justify-content:center;
-    background:var(--Yellow);
+    background:hsl(47, 88%, 63%);
     font-family: 'Figtree', sans-serif;
 }
 h2{
@@ -65,7 +65,7 @@ p{
     
 }
 .outer-yellow{
-    background:var(--Yellow);
+    background:hsl(47, 88%, 63%);
     border-radius:5px;
     height: 27px;
     width: 90px;
